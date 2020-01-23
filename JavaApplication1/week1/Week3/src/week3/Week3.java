@@ -20,6 +20,7 @@ public class Week3 {
          System.out.println("three");
          System.out.println("four");
         System.out.println("five");
+        System.out.println("six");
     }
     
 }
