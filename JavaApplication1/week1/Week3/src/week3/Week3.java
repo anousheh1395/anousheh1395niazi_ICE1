@@ -18,6 +18,7 @@ public class Week3 {
         System.out.println("one");
         System.out.println("two");
          System.out.println("three");
+         System.out.println("four");
     }
     
 }
