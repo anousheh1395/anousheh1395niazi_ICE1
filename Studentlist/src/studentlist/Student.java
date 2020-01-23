@@ -13,6 +13,7 @@ public class Student
 {
     private String name;
     private int age;
+    private int partsid;
 
     /**
      * @return the name
@@ -40,6 +41,20 @@ public class Student
      */
     public void setAge(int age) {
         this.age = age;
+    }
+
+    /**
+     * @return the partsid
+     */
+    public int getPartsid() {
+        return partsid;
+    }
+
+    /**
+     * @param partsid the partsid to set
+     */
+    public void setPartsid(int partsid) {
+        this.partsid = partsid;
     }
     
 }
